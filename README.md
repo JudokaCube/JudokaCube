@@ -41,7 +41,6 @@ focus: building random stuff and learning as I go
 <div align="center">
 
 | | |
-|---|---|
 | **OS** | Arch Linux |
 | **Dotfiles** | Modified [ML4W](https://github.com/mylinuxforwork/dotfiles) |
 | **CPU** | Ryzen 5 7600 |
@@ -64,5 +63,5 @@ focus: building random stuff and learning as I go
 <br>
 
 <div align="center">
-<sub>built with 🖤 and way too much coffee</sub>
+<sub>built with love, coffee, and httyd on the background</sub>
 </div>
