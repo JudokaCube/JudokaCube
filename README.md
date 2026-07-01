@@ -45,5 +45,4 @@ discord: judokacube
 ---
 
 <p align="center" style="color:#00ffff;">
-black & cyan
 </p>
