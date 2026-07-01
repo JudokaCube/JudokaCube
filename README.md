@@ -27,8 +27,14 @@ python
 ## setup
 
 os: arch linux  
-theme: black + cyan  
-editor: vscode / neovim  
+dotfiles: modified ml4w
+specs:
+GPU: Radeon 7800xt
+CPU: Ryzen 5 7600
+RAM: 32gb ddr5 ram
+DRIVES:
+- 2x 2tb ssd
+- 2x 2tb hdd
 
 ---
 
