@@ -1,49 +1,68 @@
-<h1 align="center" style="color:#00ffff;">Hi, I'm Luca aka JDKCube</h1>
+<div align="center">
 
-<p align="center" style="color:#00ffff;">
-httyd • hollow knight • linux • games • coding
-</p>
+# Hi, I'm Luca <span style="color:#00ffff">// JDKCube</span>
 
----
+**httyd&nbsp;•&nbsp;hollow knight&nbsp;•&nbsp;linux&nbsp;•&nbsp;games&nbsp;•&nbsp;coding**
 
-## about me
+![Profile Views](https://komarev.com/ghpvc/?username=JDKCube&color=00ffff&style=flat-square&label=Views)
 
-i like coding and messing around with projects  
-i use arch linux btw  
-i play games like hollow knight
-i LOVE httyd  
-i mostly just build random stuff and learn as i go  
+</div>
 
----
+<br>
 
-## tech i know
+## About Me
 
-html  
-css  
-javascript  
-python  
+```yaml
+name: Luca
+alias: JDKCube
+os: Arch Linux (btw)
+currently_playing: Hollow Knight
+obsessed_with: How to Train Your Dragon
+focus: building random stuff and learning as I go
+```
 
----
+<br>
 
-## setup
+## Tech Stack
 
-os: arch linux  
-dotfiles: modified ml4w
-specs:
-GPU: Radeon 7800xt
-CPU: Ryzen 5 7600
-RAM: 32gb ddr5 ram
-DRIVES:
-- 2x 2tb ssd
-- 2x 2tb hdd
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ffff)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff)
 
-## contact
+</div>
 
-discord: judokacube  
+<br>
 
----
+## Setup
 
-<p align="center" style="color:#00ffff;">
-</p>
+<div align="center">
+
+| | |
+|---|---|
+| **OS** | Arch Linux |
+| **Dotfiles** | Modified [ML4W](https://github.com/mylinuxforwork/dotfiles) |
+| **CPU** | Ryzen 5 7600 |
+| **GPU** | Radeon 7800 XT |
+| **RAM** | 32GB DDR5 |
+| **Storage** | 2× 2TB SSD&nbsp;&nbsp;•&nbsp;&nbsp;2× 2TB HDD |
+
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
+
+![Discord](https://img.shields.io/badge/Discord-judokacube-000000?style=for-the-badge&logo=discord&logoColor=00ffff)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>built with 🖤 and way too much coffee</sub>
+</div>
