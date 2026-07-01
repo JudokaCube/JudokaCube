@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00ffff;">Hi, I'm Luca aka JDKCube</h1>
 
 <p align="center" style="color:#00ffff;">
-coding • linux • games
+httyd • hollow knight • linux • games • coding
 </p>
 
 ---
@@ -10,7 +10,8 @@ coding • linux • games
 
 i like coding and messing around with projects  
 i use arch linux btw  
-i play games like hollow knight and i like httyd  
+i play games like hollow knight
+i LOVE httyd  
 i mostly just build random stuff and learn as i go  
 
 ---
