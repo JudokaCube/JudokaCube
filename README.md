@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Luca <span style="color:#00ffff">// JDKCube</span>
+# Hi, I'm Luca // JDKCube
 
 **httyd&nbsp;•&nbsp;hollow knight&nbsp;•&nbsp;linux&nbsp;•&nbsp;games&nbsp;•&nbsp;coding**
 
@@ -41,6 +41,7 @@ focus: building random stuff and learning as I go
 <div align="center">
 
 | | |
+|---|---|
 | **OS** | Arch Linux |
 | **Dotfiles** | Modified [ML4W](https://github.com/mylinuxforwork/dotfiles) |
 | **CPU** | Ryzen 5 7600 |
