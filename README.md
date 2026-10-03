@@ -43,7 +43,7 @@ focus: building random stuff and learning as I go
 | | |
 |---|---|
 | **OS** | Arch Linux |
-| **Dotfiles** | Modified [ML4W](https://github.com/mylinuxforwork/dotfiles) |
+| **Dotfiles** | My own with [noctalia](https://noctalia.dev/) |
 | **CPU** | Ryzen 5 7600 |
 | **GPU** | Radeon 7800 XT |
 | **RAM** | 32GB DDR5 |
