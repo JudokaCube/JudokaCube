@@ -4,8 +4,7 @@
 
 `httyd` · `hollow knight` · `linux` · `games` · `coding`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JDKCube&color=00ffff&style=flat-square)](https://github.com/JDKCube)
-
+![Profile Views](https://hits.sh/github.com/JDKCube.svg?style=flat-square&label=PROFILE+VIEWS&color=00ffff&labelColor=000000)
 </div>
 
 ---
