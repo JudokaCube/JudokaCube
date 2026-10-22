@@ -48,6 +48,6 @@ focus: building random stuff and learning as I go
 
 ![Discord](https://img.shields.io/badge/Discord-judokacube-000000?style=for-the-badge&logo=discord&logoColor=00ffff)
 
-*building stuff, playing games, probably using Arch*
+*made with love :D*
 
 </div>
