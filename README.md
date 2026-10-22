@@ -1,16 +1,18 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Luca // JDKCube
 
-**httyd&nbsp;•&nbsp;hollow knight&nbsp;•&nbsp;linux&nbsp;•&nbsp;games&nbsp;•&nbsp;coding**
+`[ linux enthusiast • game enjoyer • code tinkerer ]`
 
-![Profile Views](https://komarev.com/ghpvc/?username=JDKCube&color=00ffff&style=flat-square&label=Views)
+**httyd&nbsp; • &nbsp;hollow knight&nbsp; • &nbsp;linux&nbsp; • &nbsp;games&nbsp; • &nbsp;coding**
+
+![Profile Views](https://komarev.com/ghpvc/?username=JDKCube&color=00ffff&style=flat-square&label=PROFILE+VIEWS)
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
-<br>
-
-## About Me
+## `// about me`
 
 ```yaml
 name: Luca
@@ -21,9 +23,7 @@ obsessed_with: How to Train Your Dragon
 focus: building random stuff and learning as I go
 ```
 
-<br>
-
-## Tech Stack
+## `// tech stack`
 
 <div align="center">
 
@@ -34,26 +34,18 @@ focus: building random stuff and learning as I go
 
 </div>
 
-<br>
+## `// setup`
 
-## Setup
-
-<div align="center">
-
-| | |
-|---|---|
+| Component | Details |
+|:--|:--|
 | **OS** | Arch Linux |
 | **Dotfiles** | My own with [noctalia](https://noctalia.dev/) |
 | **CPU** | Ryzen 5 7600 |
 | **GPU** | Radeon 7800 XT |
 | **RAM** | 32GB DDR5 |
-| **Storage** | 2× 2TB SSD&nbsp;&nbsp;•&nbsp;&nbsp;2× 2TB HDD |
+| **Storage** | 2× 2TB SSD · 2× 2TB HDD |
 
-</div>
-
-<br>
-
-## Contact
+## `// contact`
 
 <div align="center">
 
@@ -61,8 +53,12 @@ focus: building random stuff and learning as I go
 
 </div>
 
-<br>
-
 <div align="center">
-<sub>built with love, coffee, and httyd on the background</sub>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<sub>built with love, coffee, and httyd in the background</sub>
+
+<sub>⟡ stay curious · keep building ⟡</sub>
+
 </div>
