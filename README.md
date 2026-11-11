@@ -55,7 +55,7 @@ focus: building random stuff and learning as I go
 
 <div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-judokacube-000000?style=for-the-badge&logo=discord&logoColor=00ffff)
+![Discord](https://img.shields.io/badge/Discord-jdkcube-000000?style=for-the-badge&logo=discord&logoColor=00ffff)
 
 *made with love :D*
 
