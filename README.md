@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-### About Me
+![About Me](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=About+Me)
 
 ```
 name: Luca
@@ -25,7 +25,7 @@ focus: building random stuff and learning as I go
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-### Tech Stack
+![Tech Stack](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Tech+Stack)
 
 <div align="center">
 
@@ -38,23 +38,25 @@ focus: building random stuff and learning as I go
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-### Setup
+![Setup](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Setup)
 
 ```
-luca@jdkcube ~ $ fastfetch
+jdkcube@httyd ~ $ fastfetch
 
-           -`              luca@jdkcube
-          .o+`             ────────────
-         `+ooo/            OS        Arch Linux x86_64 (btw)
-        `+oooo+:           Host      custom built
-       `/:-:++oo:          Dotfiles  my own, with Noctalia
-      `/++++/++++:         CPU       AMD Ryzen 5 7600
-     `/+++ooooooo/`        GPU       AMD Radeon 7800 XT
-    ./oosssso++sso+`       Memory    32 GB DDR5
-   .ossso-``/osssso+`      Disk      2× 2TB SSD · 2× 2TB HDD
-  -osssso.    :ssssso.
- `/osso+:-     -:/+oso+-   Uptime    too long to count
-.`                    `/   Packages  too many (pacman)
+             -`                jdkcube@httyd
+            .o+`               ─────────────
+           `+ooo/              ╭─ software
+          `+oooo+:             │ OS        Arch Linux x86_64 (btw)
+         `/:-:++oo:            │ Dotfiles  my own, with Noctalia
+        `/++++/++++:           │ Packages  too many (pacman)
+       `/+++ooooooo/`          │ Uptime    too long to count
+      ./oosssso++sso+`         ├─ hardware
+     .ossssso+++ossso+`        │ CPU       AMD Ryzen 5 7600
+    .osssso-``/osssso++`       │ GPU       AMD Radeon 7800 XT
+   -osssso.     :ssssso+.      │ Memory    32 GB DDR5
+  :osssss/      +ssssso++.     │ Disk      2× 2TB SSD · 2× 2TB HDD
+ `/ossso+:-        -:/+oso+-   ╰────────────
+.`                        `/   ░▒▓███▓▒░
 ```
 
 <div align="center">
@@ -71,7 +73,7 @@ luca@jdkcube ~ $ fastfetch
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-### Contact
+![Contact](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Contact)
 
 <div align="center">
 
