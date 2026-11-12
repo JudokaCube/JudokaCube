@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=150&section=header)
-
-# Hi, I'm Luca // JDKCube
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=180&section=header&text=Hi%2C%20I%27m%20Luca%20%2F%2F%20JDKCube&fontSize=36&fontColor=ECEFF4&fontAlignY=40)
 
 `httyd` · `hollow knight` · `linux` · `games` · `coding`
 
@@ -12,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-## About Me
+### About Me
 
 ```
 name: Luca
@@ -25,7 +23,7 @@ focus: building random stuff and learning as I go
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -38,30 +36,23 @@ focus: building random stuff and learning as I go
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-## Setup
+### Setup
 
 ```
 luca@jdkcube ~ $ fastfetch
 
-                  -`                    luca@jdkcube
-                 .o+`                   ────────────
-                `ooo/                   OS        Arch Linux x86_64 (btw)
-               `+oooo:                  Host      custom built
-              `+oooooo:                 Dotfiles  my own, with [Noctalia](https://noctalia.dev/)
-              -+oooooo+:                CPU       AMD Ryzen 5 7600
-            `/:-:++oooo+:               GPU       AMD Radeon 7800 XT
-           `/++++/+++++++:              Memory    32 GB DDR5
-          `/++++++++++++++:             Disk      2× 2TB SSD · 2× 2TB HDD
-         `/+++ooooooooooooo/`
-        ./ooosssso++osssssso+`          Uptime    too long to count
-       .oossssso-````/ossssss+`         Packages  too many (pacman)
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
+           -`              luca@jdkcube
+          .o+`             ────────────
+         `+ooo/            OS        Arch Linux x86_64 (btw)
+        `+oooo+:           Host      custom built
+       `/:-:++oo:          Dotfiles  my own, with Noctalia
+      `/++++/++++:         CPU       AMD Ryzen 5 7600
+     `/+++ooooooo/`        GPU       AMD Radeon 7800 XT
+    ./oosssso++sso+`       Memory    32 GB DDR5
+   .ossso-``/osssso+`      Disk      2× 2TB SSD · 2× 2TB HDD
+  -osssso.    :ssssso.
+ `/osso+:-     -:/+oso+-   Uptime    too long to count
+.`                    `/   Packages  too many (pacman)
 ```
 
 <div align="center">
@@ -78,7 +69,7 @@ luca@jdkcube ~ $ fastfetch
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
 
-## Contact
+### Contact
 
 <div align="center">
 
