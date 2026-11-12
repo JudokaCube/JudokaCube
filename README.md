@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=180&section=header&text=Hi%2C%20I%27m%20Luca%20%2F%2F%20JDKCube&fontSize=36&fontColor=ECEFF4&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=150&section=header)
+
+![Hi, I'm Luca // JDKCube](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Hi%2C+I%27m+Luca+%2F%2F+JDKCube)
 
 `httyd` · `hollow knight` · `linux` · `games` · `coding`
 
