@@ -8,11 +8,8 @@
 
 </div>
 
-<p align="center">
-  <img src="divider.svg" width="720" height="2" alt="">
-</p>
 
-## About Me
+<img src="assets/heading-about-me.svg" alt="About Me" width="300" height="36">
 
 <p align="center">
   <picture>
@@ -21,11 +18,8 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="divider.svg" width="720" height="2" alt="">
-</p>
 
-## Tech Stack
+<img src="assets/heading-tech-stack.svg" alt="Tech Stack" width="300" height="36">
 
 <div align="center">
 
@@ -39,35 +33,25 @@
 
 </div>
 
-<p align="center">
-  <img src="divider.svg" width="720" height="2" alt="">
-</p>
 
-## GitHub Stats
+<img src="assets/heading-github-stats.svg" alt="GitHub Stats" width="300" height="36">
 
 <div align="center">
 
-<a href="https://github.com/JudokaCube?tab=overview">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg">
     <img src="assets/stats.svg" alt="GitHub stats — view my activity" width="600">
   </picture>
-</a>
 <br><br>
-<a href="https://github.com/JudokaCube?tab=repositories">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg">
     <img src="assets/languages.svg" alt="Most used languages — browse my repositories" width="600">
   </picture>
-</a>
 
 </div>
 
-<p align="center">
-  <img src="divider.svg" width="720" height="2" alt="">
-</p>
 
-## Setup
+<img src="assets/heading-setup.svg" alt="Setup" width="300" height="36">
 
 <p align="center">
   <picture>
@@ -76,11 +60,8 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="divider.svg" width="720" height="2" alt="">
-</p>
 
-## Contact
+<img src="assets/heading-contact.svg" alt="Contact" width="300" height="36">
 
 <div align="center">
 

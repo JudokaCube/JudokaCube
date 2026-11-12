@@ -32,6 +32,9 @@ def prepare(kind):
         svg = re.sub(r'fill="#([0-9a-fA-F]{6})"', lambda m: 'fill="#' + mapping.get(m[1].lower(), m[1]) + '"', svg)
     svg = re.sub(r'(<svg\s+width="460"\s+height=")\d+("\s+viewBox=")([^"]+)', r'\g<1>195\g<2>0 0 460 195', svg, count=1)
     svg = svg.replace('height="99%"', 'height="194"')
+    svg = svg.replace('Total Commits (last year):', 'Commits (last year):').replace('Contributed to (last year):', 'Repos (last year):')
+    svg = re.sub(r"(?:'Segoe UI'|\"Segoe UI\")[^;\n]*", "'JetBrains Mono', monospace", svg)
+    svg = svg.replace('</style>', (ROOT / 'assets/stats-font.css').read_text() + '</style>', 1)
     svg = svg.replace('</style>', '\n* { animation: none !important; } .stagger { opacity: 1 !important; }\n</style>', 1)
     parsed = ET.fromstring(svg)
     assert parsed.attrib['width'] == '460' and parsed.attrib['height'] == '195'

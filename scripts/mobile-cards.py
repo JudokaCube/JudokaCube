@@ -15,7 +15,7 @@ def card(title, rows):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="360" height="{y}" viewBox="0 0 360 {y}" role="img"><title>{escape(title)}</title>
 <rect x=".5" y=".5" width="359" height="{y-1}" rx="10" fill="#2E3440" stroke="#4C566A"/>
 <path d="M20 48 H340" stroke="#B48EAD" opacity=".6"/>
-<g font-family="monospace"><text x="20" y="31" font-size="18" fill="#88C0D0" font-weight="bold">{escape(title)}</text>{''.join(body)}</g></svg>'''
+<style>{(ROOT / "assets/stats-font.css").read_text()}</style><g font-family="monospace"><text x="20" y="31" font-size="18" fill="#88C0D0" font-weight="bold">{escape(title)}</text>{''.join(body)}</g></svg>'''
 
 def texts(path):
     return [''.join(e.itertext()).strip() for e in ET.parse(path).iter() if e.tag.endswith('}text')]
