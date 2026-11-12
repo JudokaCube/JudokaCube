@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=150&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3440,50:5E81AC,100:88C0D0&amp;height=150&amp;section=header" width="720" alt="">
 
 ![Hi, I'm Luca // JDKCube](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Hi%2C+I%27m+Luca+%2F%2F+JDKCube)
 
@@ -8,15 +8,21 @@
 
 </div>
 
-<img src="divider.svg" width="100%" height="1" alt="">
+<p align="center">
+  <img src="divider.svg" width="720" height="2" alt="">
+</p>
 
-![About Me](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=About+Me)
+## About Me
 
-<img src="about.svg" alt="about.txt: name Luca, alias JDKCube, os Arch Linux (btw), currently playing Hollow Knight, obsessed with How to Train Your Dragon, focus building random stuff and learning as I go" width="720">
+<p align="center">
+  <img src="about.svg" alt="about.txt: name Luca, alias JDKCube, os Arch Linux (btw), currently playing Hollow Knight, obsessed with How to Train Your Dragon, focus building random stuff and learning as I go" width="720">
+</p>
 
-<img src="divider.svg" width="100%" height="1" alt="">
+<p align="center">
+  <img src="divider.svg" width="720" height="2" alt="">
+</p>
 
-![Tech Stack](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Tech+Stack)
+## Tech Stack
 
 <div align="center">
 
@@ -30,26 +36,34 @@
 
 </div>
 
-<img src="divider.svg" width="100%" height="1" alt="">
+<p align="center">
+  <img src="divider.svg" width="720" height="2" alt="">
+</p>
 
-![GitHub Stats](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=GitHub+Stats)
+## GitHub Stats
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="GitHub stats" width="460" height="195">
-<img src="assets/languages.svg" alt="Most used languages" width="460" height="195">
+<img src="assets/stats.svg" alt="GitHub stats" width="354" height="150">
+<img src="assets/languages.svg" alt="Most used languages" width="354" height="150">
 
 </div>
 
-<img src="divider.svg" width="100%" height="1" alt="">
+<p align="center">
+  <img src="divider.svg" width="720" height="2" alt="">
+</p>
 
-![Setup](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Setup)
+## Setup
 
-<img src="fastfetch.svg" alt="fastfetch on jdkcube@httyd: Arch Linux, my own dotfiles with Noctalia, AMD Ryzen 5 7600, AMD Radeon 7800 XT, 32 GB DDR5, 2x 2TB SSD and 2x 2TB HDD" width="720">
+<p align="center">
+  <img src="fastfetch.svg" alt="fastfetch on jdkcube@httyd: Arch Linux, my own dotfiles with Noctalia, AMD Ryzen 5 7600, AMD Radeon 7800 XT, 32 GB DDR5, 2x 2TB SSD and 2x 2TB HDD" width="720">
+</p>
 
-<img src="divider.svg" width="100%" height="1" alt="">
+<p align="center">
+  <img src="divider.svg" width="720" height="2" alt="">
+</p>
 
-![Contact](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Contact)
+## Contact
 
 <div align="center">
 
@@ -57,6 +71,6 @@
 
 *made with love :D*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,50:5E81AC,100:2E3440&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:88C0D0,50:5E81AC,100:2E3440&amp;height=120&amp;section=footer" width="720" alt="">
 
 </div>
