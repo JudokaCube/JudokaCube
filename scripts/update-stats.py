@@ -43,3 +43,6 @@ if __name__ == '__main__':
     (ROOT / 'assets').mkdir(exist_ok=True)
     for kind, svg in cards.items():
         (ROOT / 'assets' / (kind + '.svg')).write_text(svg)
+
+    import runpy
+    runpy.run_path(str(ROOT / "scripts/mobile-cards.py"))["generate"]()

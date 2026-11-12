@@ -15,7 +15,10 @@
 ## About Me
 
 <p align="center">
-  <img src="about.svg" alt="about.txt: name Luca, alias JDKCube, os Arch Linux (btw), currently playing Hollow Knight, obsessed with How to Train Your Dragon, focus building random stuff and learning as I go" width="720">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
+    <img src="about.svg" alt="about.txt: name Luca, alias JDKCube, os Arch Linux (btw), currently playing Hollow Knight, obsessed with How to Train Your Dragon, focus building random stuff and learning as I go" width="720">
+  </picture>
 </p>
 
 <p align="center">
@@ -45,11 +48,17 @@
 <div align="center">
 
 <a href="https://github.com/JudokaCube?tab=overview">
-  <img src="assets/stats.svg" alt="GitHub stats — view my activity" width="600">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg">
+    <img src="assets/stats.svg" alt="GitHub stats — view my activity" width="600">
+  </picture>
 </a>
 <br><br>
 <a href="https://github.com/JudokaCube?tab=repositories">
-  <img src="assets/languages.svg" alt="Most used languages — browse my repositories" width="600">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg">
+    <img src="assets/languages.svg" alt="Most used languages — browse my repositories" width="600">
+  </picture>
 </a>
 
 </div>
@@ -61,7 +70,10 @@
 ## Setup
 
 <p align="center">
-  <img src="fastfetch.svg" alt="fastfetch on jdkcube@httyd: Arch Linux, my own dotfiles with Noctalia, AMD Ryzen 5 7600, AMD Radeon 7800 XT, 32 GB DDR5, 2x 2TB SSD and 2x 2TB HDD" width="720">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/setup-mobile.svg">
+    <img src="fastfetch.svg" alt="fastfetch on jdkcube@httyd: Arch Linux, my own dotfiles with Noctalia, AMD Ryzen 5 7600, AMD Radeon 7800 XT, 32 GB DDR5, 2x 2TB SSD and 2x 2TB HDD" width="720">
+  </picture>
 </p>
 
 <p align="center">
