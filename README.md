@@ -6,24 +6,15 @@
 
 `httyd` · `hollow knight` · `linux` · `games` · `coding`
 
-![Profile Views](https://hits.sh/github.com/JDKCube.svg?style=flat-square&label=PROFILE+VIEWS&color=88c0d0&labelColor=2e3440)
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
+<img src="divider.svg" width="100%" height="1" alt="">
 
 ![About Me](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=About+Me)
 
-```
-name: Luca
-alias: JDKCube
-os: Arch Linux (btw)
-currently_playing: Hollow Knight
-obsessed_with: How to Train Your Dragon
-focus: building random stuff and learning as I go
-```
+<img src="about.svg" alt="about.txt: name Luca, alias JDKCube, os Arch Linux (btw), currently playing Hollow Knight, obsessed with How to Train Your Dragon, focus building random stuff and learning as I go" width="720">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
+<img src="divider.svg" width="100%" height="1" alt="">
 
 ![Tech Stack](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Tech+Stack)
 
@@ -36,42 +27,13 @@ focus: building random stuff and learning as I go
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
+<img src="divider.svg" width="100%" height="1" alt="">
 
 ![Setup](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Setup)
 
-```
-jdkcube@httyd ~ $ fastfetch
+<img src="fastfetch.svg" alt="fastfetch on jdkcube@httyd: Arch Linux, my own dotfiles with Noctalia, AMD Ryzen 5 7600, AMD Radeon 7800 XT, 32 GB DDR5, 2x 2TB SSD and 2x 2TB HDD" width="720">
 
-             -`                jdkcube@httyd
-            .o+`               ─────────────
-           `+ooo/              ╭─ software
-          `+oooo+:             │ OS        Arch Linux x86_64 (btw)
-         `/:-:++oo:            │ Dotfiles  my own, with Noctalia
-        `/++++/++++:           │ Packages  too many (pacman)
-       `/+++ooooooo/`          │ Uptime    too long to count
-      ./oosssso++sso+`         ├─ hardware
-     .ossssso+++ossso+`        │ CPU       AMD Ryzen 5 7600
-    .osssso-``/osssso++`       │ GPU       AMD Radeon 7800 XT
-   -osssso.     :ssssso+.      │ Memory    32 GB DDR5
-  :osssss/      +ssssso++.     │ Disk      2× 2TB SSD · 2× 2TB HDD
- `/ossso+:-        -:/+oso+-   ╰────────────
-.`                        `/   ░▒▓███▓▒░
-```
-
-<div align="center">
-
-![nord0](https://img.shields.io/badge/-%20%20%20-2E3440?style=flat-square)
-![nord3](https://img.shields.io/badge/-%20%20%20-4C566A?style=flat-square)
-![nord10](https://img.shields.io/badge/-%20%20%20-5E81AC?style=flat-square)
-![nord9](https://img.shields.io/badge/-%20%20%20-81A1C1?style=flat-square)
-![nord8](https://img.shields.io/badge/-%20%20%20-88C0D0?style=flat-square)
-![nord7](https://img.shields.io/badge/-%20%20%20-8FBCBB?style=flat-square)
-![nord5](https://img.shields.io/badge/-%20%20%20-E5E9F0?style=flat-square)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,50:88C0D0,100:2E3440&height=2" width="100%" alt="">
+<img src="divider.svg" width="100%" height="1" alt="">
 
 ![Contact](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=88C0D0&vCenter=true&repeat=false&width=300&height=40&lines=Contact)
 
