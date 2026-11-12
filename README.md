@@ -44,8 +44,13 @@
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="GitHub stats" width="354" height="150">
-<img src="assets/languages.svg" alt="Most used languages" width="354" height="150">
+<a href="https://github.com/JudokaCube?tab=overview">
+  <img src="assets/stats.svg" alt="GitHub stats — view my activity" width="600">
+</a>
+<br><br>
+<a href="https://github.com/JudokaCube?tab=repositories">
+  <img src="assets/languages.svg" alt="Most used languages — browse my repositories" width="600">
+</a>
 
 </div>
 
