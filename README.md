@@ -36,8 +36,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=JudokaCube&show_icons=true&hide_border=false&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1&border_color=4C566A" alt="GitHub stats" height="180">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JudokaCube&layout=compact&hide_border=false&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&border_color=4C566A" alt="Top languages" height="180">
+<img src="assets/stats.svg" alt="GitHub stats" width="460" height="195">
+<img src="assets/languages.svg" alt="Most used languages" width="460" height="195">
 
 </div>
 

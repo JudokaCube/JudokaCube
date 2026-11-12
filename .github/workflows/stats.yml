@@ -1,0 +1,26 @@
+name: Refresh profile stats
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh Nord cards
+        run: python3 scripts/update-stats.py
+      - name: Save refreshed cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh profile stats"
+            git push
+          fi
