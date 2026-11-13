@@ -2,6 +2,13 @@ name: Refresh profile stats
 on:
   schedule:
     - cron: '23 6 * * *'
+  push:
+    paths:
+      - 'scripts/update-stats.py'
+      - 'scripts/mobile-cards.py'
+      - 'assets/stats-font.css'
+      - 'tests/test_stats.py'
+      - '.github/workflows/stats.yml'
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,16 +18,19 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Refresh Nord cards
         run: python3 scripts/update-stats.py
+      - name: Check cards
+        run: python3 -m unittest discover -s tests
       - name: Save refreshed cards
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/*.svg
+          git add assets/*.svg README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh profile stats"
+            git commit -m "refresh stats"
             git push
           fi
