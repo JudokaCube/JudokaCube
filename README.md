@@ -12,8 +12,8 @@
 </div>
 
 
-<p align="center">
-  <img src="assets/heading-about-me.svg" alt="About Me" width="300" height="40">
+<p align="left">
+  <img src="assets/heading-about-me.svg" alt="About Me" width="300" height="32">
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 </p>
 
 
-<p align="center">
-  <img src="assets/heading-tech-stack.svg" alt="Tech Stack" width="300" height="40">
+<p align="left">
+  <img src="assets/heading-tech-stack.svg" alt="Tech Stack" width="300" height="32">
 </p>
 
 <div align="center">
@@ -41,8 +41,8 @@
 </div>
 
 
-<p align="center">
-  <img src="assets/heading-github-stats.svg" alt="GitHub Stats" width="300" height="40">
+<p align="left">
+  <img src="assets/heading-github-stats.svg" alt="GitHub Stats" width="300" height="32">
 </p>
 
 <div align="center">
@@ -60,8 +60,8 @@
 </div>
 
 
-<p align="center">
-  <img src="assets/heading-setup.svg" alt="Setup" width="300" height="40">
+<p align="left">
+  <img src="assets/heading-setup.svg" alt="Setup" width="300" height="32">
 </p>
 
 <p align="center">
@@ -72,8 +72,8 @@
 </p>
 
 
-<p align="center">
-  <img src="assets/heading-contact.svg" alt="Contact" width="300" height="40">
+<p align="left">
+  <img src="assets/heading-contact.svg" alt="Contact" width="300" height="32">
 </p>
 
 <div align="center">
