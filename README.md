@@ -48,13 +48,13 @@
 <div align="center">
 
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg?v=c85a2b53219b">
-    <img src="assets/stats.svg?v=158ba5ed1ca3" alt="GitHub stats — view my activity" width="600">
+    <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg?v=64f25f108195">
+    <img src="assets/stats.svg?v=8d74d9c81f81" alt="GitHub stats — view my activity" width="600">
   </picture>
 <br><br>
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg?v=2f6d04db4ee0">
-    <img src="assets/languages.svg?v=63a7fa427bef" alt="Most used languages — browse my repositories" width="600">
+    <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg?v=debe92766d0f">
+    <img src="assets/languages.svg?v=ef5c3ac8dde8" alt="Most used languages — browse my repositories" width="600">
   </picture>
 
 </div>
